@@ -44,7 +44,7 @@ Contributions are welcome! Feel free to submit pull requests or open issues.
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Authors
-- [Your Name](https://github.com/yourusername) - Initial work
+- Luiza Goulart Giovanni - Initial work
 
 ## Acknowledgments
 - [OpenAI](https://openai.com) for their AI technologies and models.

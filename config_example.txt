@@ -1,0 +1,10 @@
+# Example Configuration Settings
+
+# File paths
+input_file_path: '/path/to/input/file.txt'
+output_file_path: '/path/to/output/file.txt'
+
+# Parameters
+parameter_1: 'value_1'
+parameter_2: 10
+parameter_3: true

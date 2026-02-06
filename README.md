@@ -33,7 +33,7 @@ To set up the project locally, follow these instructions:
 ## Usage
 1. Run the application:
    ```bash
-   python app.py
+   Rstudio
    ```
 2. Follow the on-screen instructions to upload your texts and get similarity scores.
 

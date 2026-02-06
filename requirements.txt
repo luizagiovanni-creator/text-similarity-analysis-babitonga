@@ -1,0 +1,8 @@
+
+# R Package Dependencies
+
+- tidyr
+- dplyr
+- ggplot2
+- stringr
+- purrr
